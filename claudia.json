@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "wardata-discord-executor",
+    "name": "wardata-discord",
+    "region": "eu-west-3"
+  }
+}
